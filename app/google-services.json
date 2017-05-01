@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "786137055129",
+    "firebase_url": "https://kickdown-1490230090772.firebaseio.com",
+    "project_id": "kickdown-1490230090772",
+    "storage_bucket": "kickdown-1490230090772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786137055129:android:d7b5174a69b04da0",
+        "android_client_info": {
+          "package_name": "bit.sikander.kickdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786137055129-kk0ti46u3dpp9lensgb6duodvp5ouou5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bit.sikander.kickdown",
+            "certificate_hash": "c3d5809b17f4e7bc52b7822a94f2f734ca3df940"
+          }
+        },
+        {
+          "client_id": "786137055129-tq2o4tv4c0vmrqu4579gub0l3to9o9og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bit.sikander.kickdown",
+            "certificate_hash": "a5cfdb1d61257395ed1ac46a76049c82d1c7f7e2"
+          }
+        },
+        {
+          "client_id": "786137055129-nrumb9s9tju974ti67v1hjllq961vf80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRibPtpHi8eIfDoZdoqChSPS_RXxP7fuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786137055129-nrumb9s9tju974ti67v1hjllq961vf80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
